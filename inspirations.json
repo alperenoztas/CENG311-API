@@ -1,20 +1,32 @@
 {
-    "inspirations": [
-      {
-        "name": "Robotics in Medicine",
-        "description": "Explore the fascinating intersection of robotics and medicine. Develop innovative robotic solutions for surgeries, rehabilitation, and medical diagnostics to improve patient care and save lives."
-      },
-      {
-        "name": "Autonomous Vehicles",
-        "description": "Pioneer the field of autonomous vehicles. Design and build self-driving cars, drones, and other robotic vehicles that can navigate and operate independently, revolutionizing transportation and logistics."
-      },
-      {
-        "name": "Robotics in Education",
-        "description": "Promote robotics in education. Develop educational programs and workshops to inspire and teach the next generation about robotics, coding, and problem-solving, fostering a passion for STEM fields."
-      },
-      {
-        "name": "Robotics in Space Exploration",
-        "description": "Embark on exciting space exploration missions with robotics. Contribute to the development of robots for extraterrestrial exploration, satellite servicing, and asteroid mining, advancing humanity's reach into the cosmos."
-      }
-    ]
-  }
+  "inspirations": [
+    {
+      "name": "Creativity",
+      "description": "Encourage creativity and innovation in the field of robotics. Explore new ideas and develop groundbreaking robotic solutions for surgeries, rehabilitation, and medical diagnostics to improve patient care and save lives."
+    },
+    {
+      "name": "Go further",
+      "description": "Push the boundaries of autonomous vehicles. Design and build cutting-edge self-driving cars, drones, and other robotic vehicles that can navigate and operate independently, revolutionizing transportation and logistics."
+    },
+    {
+      "name": "Be a good team member",
+      "description": "Emphasize teamwork and collaboration in robotics education. Develop engaging educational programs and workshops that inspire the next generation, teaching them about robotics, coding, and problem-solving, while fostering a strong sense of teamwork."
+    },
+    {
+      "name": "Having Fun",
+      "description": "Embark on exciting space exploration missions with robotics, while having fun along the way. Contribute to the development of robots for extraterrestrial exploration, satellite servicing, and asteroid mining, advancing humanity's reach into the cosmos, all while enjoying the journey."
+    },
+    {
+      "name": "Professionalism",
+      "description": "Maintain a high level of professionalism in all aspects of robotics. Conduct research and development projects with precision and integrity, adhering to industry best practices and standards."
+    },
+    {
+      "name": "Exploration",
+      "description": "Foster a spirit of exploration and discovery through robotics. Take part in expeditions and projects that explore uncharted territories, whether it's the depths of the oceans, extreme environments, or unexplored regions on Earth and beyond."
+    },
+    {
+      "name": "Collaboration",
+      "description": "Promote collaboration and teamwork in robotics endeavors. Seek partnerships and collaborate with other organizations, researchers, and enthusiasts to leverage collective expertise and resources, accelerating progress in the field."
+    }
+  ]
+}
