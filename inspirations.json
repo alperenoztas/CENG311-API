@@ -1,0 +1,20 @@
+{
+    "inspirations": [
+      {
+        "name": "Robotics in Medicine",
+        "description": "Explore the fascinating intersection of robotics and medicine. Develop innovative robotic solutions for surgeries, rehabilitation, and medical diagnostics to improve patient care and save lives."
+      },
+      {
+        "name": "Autonomous Vehicles",
+        "description": "Pioneer the field of autonomous vehicles. Design and build self-driving cars, drones, and other robotic vehicles that can navigate and operate independently, revolutionizing transportation and logistics."
+      },
+      {
+        "name": "Robotics in Education",
+        "description": "Promote robotics in education. Develop educational programs and workshops to inspire and teach the next generation about robotics, coding, and problem-solving, fostering a passion for STEM fields."
+      },
+      {
+        "name": "Robotics in Space Exploration",
+        "description": "Embark on exciting space exploration missions with robotics. Contribute to the development of robots for extraterrestrial exploration, satellite servicing, and asteroid mining, advancing humanity's reach into the cosmos."
+      }
+    ]
+  }
